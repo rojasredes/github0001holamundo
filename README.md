@@ -14,4 +14,4 @@ Visita mi web en [http://www.rojasdelgado.com](http://www.rojasdelgado.com)
 
 <!-- ![mi logo animado](http://www.rojasdelgado.com/fondoagua.gif) -->
 
-![](fondoagua.gif)
+![](https://raw.githubusercontent.com/rojasredes/github0001holamundo/master/fondoagua.gif)
