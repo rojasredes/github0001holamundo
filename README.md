@@ -14,4 +14,4 @@ Visita mi web en [http://www.rojasdelgado.com](http://www.rojasdelgado.com)
 
 <!-- ![mi logo animado](http://www.rojasdelgado.com/fondoagua.gif) -->
 
-![](https://github.com/AyudanteTecnicoInformatico/desktop-tutorial/blob/main/fondoagua.gif)
+![](fondoagua.gif)
